@@ -1,0 +1,30 @@
+.imgsid{
+  height : 150px;
+}
+.my-siddharth-text {
+  color : rgb(42, 14, 108);
+  margin-right : 25px;
+  margin-top : 55px;
+}
+.my-cards{
+  height : 500px;
+  margin-bottom : 15px;
+  margin-top : 15px
+}
+.bottom-texts{
+  
+  text-align: right;
+  position: absolute;
+    bottom: 25px;
+    right: 10px;
+  color : rgb(77, 77, 77)
+}
+.button-sid{
+  position: absolute;
+  bottom:100px;
+}
+.badgeclass{
+  position: absolute;
+  right: 20%;
+  height:15px
+}
